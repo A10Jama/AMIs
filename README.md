@@ -1,4 +1,4 @@
-# AMIs
+# AMIs (Amazon Machine Images )
 ## What is an AMI
 AMI stands for Amazon Machine Image. In the context of Amazon Web Services (AWS), an AMI is a pre-configured virtual machine image that is used to create new instances of a particular operating system and software stack in the cloud.
 
