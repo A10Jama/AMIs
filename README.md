@@ -1,4 +1,11 @@
 # AMIs
+## What is an AMI
+AMI stands for Amazon Machine Image. In the context of Amazon Web Services (AWS), an AMI is a pre-configured virtual machine image that is used to create new instances of a particular operating system and software stack in the cloud.
+
+An AMI is a snapshot of a configured virtual machine (VM) that contains all the necessary information needed to launch an instance, such as the operating system, application server, and application code. It can also include other custom configurations and data
+![Screenshot 2023-04-14 at 13 07 30](https://user-images.githubusercontent.com/129948378/232039293-87bd15b6-c0fa-45ce-8ac9-5a927035babd.png)
+
+
 
 ## Creating AMI from current instance 
 
