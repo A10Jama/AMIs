@@ -7,6 +7,7 @@ An AMI is a snapshot of a configured virtual machine (VM) that contains all the 
 
 
 
+
 ## Creating AMI from current instance 
 
 ## press your name on instances , hover over actions. on image templates and click create image.
