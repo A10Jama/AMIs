@@ -32,3 +32,7 @@ An AMI is a snapshot of a configured virtual machine (VM) that contains all the 
 
 ### After you press launch, Navigate to the instance and find the IP address, copy the IP address and paste it into your browser
 <img width="1271" alt="Screenshot 2023-04-14 at 18 56 16" src="https://user-images.githubusercontent.com/129948378/232122945-bde719c6-b0e6-4dbd-abe7-acb1c366d60d.png">
+
+### Paste it into your Web Search and you should see this 
+<img width="691" alt="Screenshot 2023-04-14 at 19 05 44" src="https://user-images.githubusercontent.com/129948378/232123257-7eaa395f-cc0d-460e-97a9-00eebb2792fb.png">
+
