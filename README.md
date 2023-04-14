@@ -36,3 +36,5 @@ An AMI is a snapshot of a configured virtual machine (VM) that contains all the 
 ### Paste it into your Web Search and you should see this 
 <img width="691" alt="Screenshot 2023-04-14 at 19 05 44" src="https://user-images.githubusercontent.com/129948378/232123257-7eaa395f-cc0d-460e-97a9-00eebb2792fb.png">
 
+### Connect to the ssh client by navigating to the following page and went pasting this into your gitbash, change the "root" to "ubuntu"<img width="874" alt="Screenshot 2023-04-14 at 19 09 07" src="https://user-images.githubusercontent.com/129948378/232123755-94d22d8c-6c22-4716-b5b4-d18810a0de44.png">
+
