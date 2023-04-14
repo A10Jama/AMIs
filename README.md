@@ -27,3 +27,6 @@ An AMI is a snapshot of a configured virtual machine (VM) that contains all the 
 ### AMI should be shown here, already selected
 <img width="1271" alt="Screenshot 2023-04-14 at 18 54 21" src="https://user-images.githubusercontent.com/129948378/232121775-b0a46540-390b-4868-ab3b-18255c9a2cda.png">
 
+### Fill in the details as you would normally when launching an ance
+<img width="1271" alt="Screenshot 2023-04-14 at 18 55 35" src="https://user-images.githubusercontent.com/129948378/232122390-07553bf7-3c29-41d7-9d04-4831ddbcb062.png">
+
